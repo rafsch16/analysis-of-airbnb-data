@@ -44,4 +44,4 @@ Run the cells in the jupyter notebook file.
 See the blog post for a general discussion of the results.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The disaster dataset to train the model was provided by **Figure Eight**. The code for the web app was mostly provided by **Udacity**, only the data visualization part was modified. The rest of the code was written according to guidelines from Udacity.
+The dataset to train the model was provided by **Airbnb** and is openly available at Kaggle: [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle)
