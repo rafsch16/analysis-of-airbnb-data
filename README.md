@@ -41,7 +41,7 @@ The jupyter notebook file **'../airbnb.ipynb'** contains all of the code for thi
 
 Run the cells in the jupyter notebook file.
 
-See the blog post for a general discussion of the results.
+See the [blog post](https://rafsch16.github.io/airbnb/datascience/2021/10/14/analysis-of-airbnb-data.html) for a general discussion of the results.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The dataset to train the model was provided by **Airbnb** and is openly available at Kaggle: [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle)
