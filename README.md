@@ -20,7 +20,7 @@ I intended to answer the following questions:
 2. Does the presence of dogs and cats influence price? 
 3. How well can we predict price?
 
-A general discussion of the results can be found in this blog post.
+It is found that the number of bedrooms is the best indicator for high price, whereas the review scores for value are the best indicator for low price. Dogs are found to be a weak indicator for high price, whereas cats are a clear indicator for low price. Using ridge regression we can explain 58% of the variability in price using property features. A general discussion of the results can also be found in a [blog post](https://rafsch16.github.io/airbnb/datascience/2021/10/14/analysis-of-airbnb-data.html).
 
 ## File Descriptions<a name="files"></a>
 
@@ -41,7 +41,7 @@ The jupyter notebook file **'../airbnb.ipynb'** contains all of the code for thi
 
 Run the cells in the jupyter notebook file.
 
-See the blog post for a general discussion of the results.
+See the [blog post](https://rafsch16.github.io/airbnb/datascience/2021/10/14/analysis-of-airbnb-data.html) for a general discussion of the results.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The dataset to train the model was provided by **Airbnb** and is openly available at Kaggle: [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle)
